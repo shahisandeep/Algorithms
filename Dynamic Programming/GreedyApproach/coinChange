@@ -1,0 +1,15 @@
+def coin_change(value, coins=[21, 5, 10, 25, 1]):
+    flag = None
+    if value in coins: return value
+
+    for c in coins:
+        if c <= value:
+            flag = c
+    temp_balance = value - flag
+
+    return [flag], [coin_change(temp_balance)]
+
+
+
+print coin_change(28)
+

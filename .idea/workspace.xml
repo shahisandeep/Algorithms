@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c9d52f7-c7bf-4fb5-8446-39f29ce183cb" name="Default Changelist" comment="fibonacci without recursion2">
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/GreedyApproach/coinChange" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/GreedyApproach/huffman.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetcodeEasy/two_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetcodeEasy/two_sum.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +47,40 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-2132184699">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="coinChange" value="1" />
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="9" />
+          <entry key="coinChange" value="864" />
+          <entry key="py" value="733" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1606" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="Algorithms" />
@@ -55,11 +90,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fibonacci_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="150">
               <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-              <folding>
-                <marker date="1539184070975" expanded="true" signature="26:31" ph="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -67,7 +99,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Sorting/insertion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1206">
+            <state relative-caret-position="1005">
               <caret line="67" selection-start-line="67" selection-end-line="67" />
             </state>
           </provider>
@@ -76,7 +108,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Sorting/sorting2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1134">
+            <state relative-caret-position="945">
               <caret line="65" selection-start-line="65" selection-end-line="65" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
@@ -96,13 +128,31 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetcodeEasy/two_sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
+            <state relative-caret-position="105">
               <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dynamic Programming/GreedyApproach/coinChange">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Dynamic Programming/GreedyApproach/huffman.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
               <folding>
-                <marker date="1539376137886" expanded="true" signature="24:39" ph="..." />
+                <element signature="e#15#27#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -117,6 +167,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>frequency</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -127,14 +182,16 @@
         <option value="$PROJECT_DIR$/Sorting/insertion.py" />
         <option value="$PROJECT_DIR$/Sorting/sorting2.py" />
         <option value="$PROJECT_DIR$/LeetcodeEasy/two_sum.py" />
+        <option value="$PROJECT_DIR$/Dynamic Programming/GreedyApproach/coinChange" />
+        <option value="$PROJECT_DIR$/Dynamic Programming/GreedyApproach/huffman.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="1440" />
-    <option name="y" value="-180" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="x" value="323" />
+    <option name="y" value="99" />
+    <option name="width" value="1440" />
+    <option name="height" value="831" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -143,11 +200,40 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="Dynamic Programming" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="Dynamic Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="GreedyApproach" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetcodeEasy" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -161,7 +247,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.two_sum">
+  <component name="RunManager" selected="Python.huffman">
+    <configuration name="coinChange" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dynamic Programming/GreedyApproach" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic Programming/GreedyApproach/coinChange" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="huffman" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dynamic Programming/GreedyApproach" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic Programming/GreedyApproach/huffman.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="insertion" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -229,9 +357,13 @@
       <item itemvalue="Python.insertion" />
       <item itemvalue="Python.sorting2" />
       <item itemvalue="Python.two_sum" />
+      <item itemvalue="Python.coinChange" />
+      <item itemvalue="Python.huffman" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.huffman" />
+        <item itemvalue="Python.coinChange" />
         <item itemvalue="Python.two_sum" />
         <item itemvalue="Python.sorting2" />
         <item itemvalue="Python.insertion" />
@@ -267,25 +399,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="-180" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4990138" weight="0.157082" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4990138" weight="0.1602289" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5009862" side_tool="true" weight="0.12875536" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.19504951" />
-      <window_info anchor="bottom" id="Python Console" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" weight="0.28085107" />
-      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.25445545" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.2807229" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Run" order="3" weight="0.31203407" />
+      <window_info active="true" anchor="right" id="Run" order="3" visible="true" weight="0.453505" />
+      <window_info anchor="right" id="Debug" order="4" weight="0.4806867" />
+      <window_info anchor="right" id="Python Console" order="5" weight="0.32832617" />
     </layout>
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -320,30 +453,37 @@
           <line>9</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic Programming/GreedyApproach/coinChange</url>
+          <line>13</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dynamic Programming/GreedyApproach/huffman.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/fibonacci_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="150">
           <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-          <folding>
-            <marker date="1539184070975" expanded="true" signature="26:31" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Sorting/insertion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1206">
+        <state relative-caret-position="1005">
           <caret line="67" selection-start-line="67" selection-end-line="67" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Sorting/sorting2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
+        <state relative-caret-position="945">
           <caret line="65" selection-start-line="65" selection-end-line="65" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
@@ -362,10 +502,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetcodeEasy/two_sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
+        <state relative-caret-position="105">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic Programming/GreedyApproach/coinChange">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dynamic Programming/GreedyApproach/huffman.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
           <folding>
-            <marker date="1539376137886" expanded="true" signature="24:39" ph="..." />
+            <element signature="e#15#27#0" expanded="true" />
           </folding>
         </state>
       </provider>
